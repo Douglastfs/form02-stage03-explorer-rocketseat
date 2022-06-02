@@ -164,6 +164,7 @@ fieldset {
   padding: 15px;
   max-width: 100%;
   margin-bottom: 14px;
+  resize: none;
 }
 
 .checkbox-wrapper {
